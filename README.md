@@ -5,7 +5,7 @@ I'm a Data Analyst with a passion for uncovering insights from data and helping 
 and professional dashboard for analysis of raw data.
 
 ## Skills
-- **Tools**: Excel , Power BI , Power point presentation.
+- **Tools**: Excel , Power BI , Data Analysis, Data Visualisation, Power point presentation.
 
 ## Contact
 - [Email](kashyappranjal087@gmail.com)
